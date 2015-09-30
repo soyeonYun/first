@@ -2,7 +2,7 @@
 #include <func2.h>
 
 void main(){
-	printf("ruulroo");
+	printf("ruulroo.....");
 	sum(1,2);
-	multiple(5,2);
+	multiple(5,10);
 }
