@@ -4,4 +4,5 @@
 void main(){
 	sum(1,2);
 	multiple(5,2);
+	printf("hi~");
 }
